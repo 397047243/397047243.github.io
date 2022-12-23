@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkuser_web"]=self["webpackChunkuser_web"]||[]).push([[575],{8575:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(3396);const s={id:"personal"};function t(e,n){return(0,u.wg)(),(0,u.iD)("div",s," 个人中心 ")}var c=r(89);const a={},i=(0,c.Z)(a,[["render",t]]);var f=i}}]);
-//# sourceMappingURL=575.f1f98f3d.js.map
